@@ -5,7 +5,7 @@
  ## Example use case
 
 Find documents related to the fake letter from the CEO of BlackRock sent to several media outlets on January 16 2019.<br>
- Information about this case available on page 38 of this report by French Financial Markets Authority: https://www.amf-france.org/sites/default/files/2020-02/study-stock-market-cybercrime-_-definition-cases-and-perspectives.pdf.
+Information about this case available in 2020 report by French Financial Markets Authority. <br> Neyret, A. Stock Market Cybercrime. Definition, cases and perspectives. *Autorité des Marchés Financiers*, 2020.
 
 ## Archives source
 
